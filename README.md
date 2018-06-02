@@ -57,7 +57,7 @@
 
 ## 毕业
 *   [毕业论文文献综述撰写模板](https://zhuanlan.zhihu.com/p/31682742)
-
+*   [我的面经，渗透测试](http://www.lofter.com/lpost/1f350fa3_125b03d2)
 
 ## 技术杂类
 *   [Docker底层技术](https://www.jianshu.com/p/7a1ce51a0eba)
