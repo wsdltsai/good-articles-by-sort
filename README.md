@@ -10,7 +10,9 @@
 *   [Cache为什么有那么多级？为什么一级比一级大？是不是Cache越大越好？](https://zhuanlan.zhihu.com/p/32058808)
 *   [Cache是怎么组织和工作的？什么是n-ways Set-Associative Cache?](https://zhuanlan.zhihu.com/p/31859105)
 
-
+# C#
+*   [EF之Code First代码优先](https://blog.csdn.net/u011872945/article/details/72955908)
+*   [WebSocket在ASP.NET MVC4中的简单实现 ](https://www.cnblogs.com/zxtceq/p/7278454.html)
 
 ## C++
 *   [QT入门安装篇+helloworld(辛酸血泪)](https://blog.csdn.net/qq_37059483/article/details/77800592)
@@ -36,7 +38,7 @@
 
 
 ## 网络
-*   [WebSocket在ASP.NET MVC4中的简单实现 ](https://www.cnblogs.com/zxtceq/p/7278454.html)
+
 *   [从Chrome源码看WebSocket](https://www.yinchengli.com/2018/05/27/chrome-websocket)
 *   [一文读懂 WebSocket 通信过程与实现 ](https://mp.weixin.qq.com/s?__biz=MzA3OTgyMDcwNg==&mid=2650635184&idx=2&sn=e58e831b9f51feabe80152476c1cc2cf)
 
