@@ -66,13 +66,15 @@
 *   [Docker：一场令人追悔莫及的豪赌](http://dockone.io/article/5520)
 *   [骗局揭秘：醒醒吧韭菜！有图未必有真相](https://zhuanlan.zhihu.com/p/36438458)
 
+## 好奇心日报
+*   [中国拒绝“洋垃圾”对美国垃圾回收意味着什么？](http://www.qdaily.com/articles/53795.html)
+*   [正视历史，接受批评，是人类得以进步的原因 | 我们如何与未来相处⑤](http://www.qdaily.com/articles/52682.html)
 
 ## 非技术杂类
 *   [举头三尺有铁拳](https://www.huxiu.com/article/246308.html)
 *   [在 Bilibili 学技能涨知识，我推荐这 14 个频道](https://sspai.com/post/44652)
 *   [36氪领读 | 史学经典，看瘟疫如何塑造人类历史与社会](http://36kr.com/p/5135719.html)
 *   [The Meaning of OP in Online Conversation](https://www.lifewire.com/what-does-o-p-stand-for-2483372)
-*   [正视历史，接受批评，是人类得以进步的原因 | 我们如何与未来相处⑤](http://www.qdaily.com/articles/52682.html)
 *   [IT“民科”罗永浩](https://www.huxiu.com/article/244293.html)  
 罗永浩的“非正式同行”郭德纲曾经说过这么一段话：“内行要是与外行去辩论那是外行。
 比如我和火箭科学家说，你那火箭不行，燃料不好，我认为得烧柴，最好是煤，煤最好选精煤，水洗煤不好。
