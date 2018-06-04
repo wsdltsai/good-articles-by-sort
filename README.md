@@ -7,6 +7,7 @@
 
 
 ## 计算机底层
+*   [从VS的dumpbin目录谈x86,i386,x86-64,amd64](http://durant35.github.io/2016/09/17/hsw_%E4%BB%8EVS%E7%9A%84dumpbin%E7%9B%AE%E5%BD%95%E8%B0%88x86,i386,x86-64,amd64/)
 *   [Cache为什么有那么多级？为什么一级比一级大？是不是Cache越大越好？](https://zhuanlan.zhihu.com/p/32058808)
 *   [Cache是怎么组织和工作的？什么是n-ways Set-Associative Cache?](https://zhuanlan.zhihu.com/p/31859105)
 
@@ -21,6 +22,7 @@
 
 
 ## 安全
+*   [在Visual Studio命令提示符界面下编译链接OpenSSL自带的示例程序](https://blog.csdn.net/henter/article/details/8539167)
 *   [数据安全及各种加密算法对比](http://www.cocoachina.com/programmer/20180530/23572.html)
 *   [实战Teensy烧录渗透测试U盘](http://www.freebuf.com/sectool/150367.html)
 *   [被长期忽视、却危害巨大的邮件追踪术](http://36kr.com/p/5136373.html)
@@ -60,6 +62,7 @@
 ## 毕业
 *   [毕业论文文献综述撰写模板](https://zhuanlan.zhihu.com/p/31682742)
 *   [我的面经，渗透测试](http://www.lofter.com/lpost/1f350fa3_125b03d2)
+*   [毕业季是各种情绪的爆发，这里有 11 个建议和方法帮你度过它 | Hack Your Life](http://www.qdaily.com/cards/53628.html)
 
 ## 技术杂类
 *   [Docker底层技术](https://www.jianshu.com/p/7a1ce51a0eba)
@@ -69,6 +72,7 @@
 ## 好奇心日报
 *   [中国拒绝“洋垃圾”对美国垃圾回收意味着什么？](http://www.qdaily.com/articles/53795.html)
 *   [正视历史，接受批评，是人类得以进步的原因 | 我们如何与未来相处⑤](http://www.qdaily.com/articles/52682.html)
+*   [毕业季是各种情绪的爆发，这里有 11 个建议和方法帮你度过它 | Hack Your Life](http://www.qdaily.com/cards/53628.html)
 
 ## 非技术杂类
 *   [举头三尺有铁拳](https://www.huxiu.com/article/246308.html)
