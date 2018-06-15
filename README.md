@@ -7,15 +7,24 @@
 
 
 ## 计算机底层
+*   [Python 标准库之 LRU 缓存实现学习 ](https://mp.weixin.qq.com/s?__biz=MzAwOTQ4MzY1Nw==&mid=2247486012&idx=2&sn=770e9bf6075262eb28b6ce9762fc8b10&chksm=9b5faedaac2827cc5d4ea1ab19e95566a97f8d6d05b1ce1a259b0730ca85b594ea3f01ac871f&mpshare=1&scene=23&srcid=0605xmUnKn5EA7OlTJSStn78#rd)
 *   [从VS的dumpbin目录谈x86,i386,x86-64,amd64](http://durant35.github.io/2016/09/17/hsw_%E4%BB%8EVS%E7%9A%84dumpbin%E7%9B%AE%E5%BD%95%E8%B0%88x86,i386,x86-64,amd64/)
 *   [Cache为什么有那么多级？为什么一级比一级大？是不是Cache越大越好？](https://zhuanlan.zhihu.com/p/32058808)
 *   [Cache是怎么组织和工作的？什么是n-ways Set-Associative Cache?](https://zhuanlan.zhihu.com/p/31859105)
+*   [CPU cache(下)](https://blog.csdn.net/vanbreaker/article/details/7477853)
+*   [CPU cache(上)](https://blog.csdn.net/vanbreaker/article/details/7470830)
+*   [MMU（TLB）与Cache的工作方式](http://blog.csdn.net/qq405180763/article/details/39157795)
+*   [漫谈虚拟内存](http://www.cnblogs.com/neal-ke/p/8711561.html)
+*   [虚拟内存](http://joakimliu.github.io/2018/03/16/Virtual-Memory/)
+*   [Buffer Cache 原理](https://blog.csdn.net/robinson1988/article/details/5982996)
 
 # C#
 *   [EF之Code First代码优先](https://blog.csdn.net/u011872945/article/details/72955908)
 *   [WebSocket在ASP.NET MVC4中的简单实现 ](https://www.cnblogs.com/zxtceq/p/7278454.html)
+*   [Entity Framework Code First使用DbContext查询](https://www.cnblogs.com/libingql/p/3372995.html)
 
 ## C++
+*   [一篇文章看明白 C++ 虚函数表](http://www.jizhuomi.com/software/718.html)
 *   [QT入门安装篇+helloworld(辛酸血泪)](https://blog.csdn.net/qq_37059483/article/details/77800592)
 *   [深入理解C++ new/delete, new []/delete[]动态内存管理](http://www.cnblogs.com/tp-16b/p/8684298.html)
 
@@ -28,6 +37,9 @@
 *   [被长期忽视、却危害巨大的邮件追踪术](http://36kr.com/p/5136373.html)
 *   [非对称加密和证书总结](https://tlanyan.me/asymmetric-encryption-and-certificate-summary/)
 *   [HTTPS 原理详解](http://liuduo.me/2018/05/14/https-detail/)
+
+## 数据结构
+*   [波兰表示法与表达式树](https://zhuanlan.zhihu.com/p/38013510)
 
 
 ## 前端
@@ -46,6 +58,8 @@
 
 
 ## 机器学习
+*   [走近流行强化学习算法：最优Q-Learning](https://www.jiqizhixin.com/articles/2018-06-02-3)
+*   [机器学习 （十） 优化算法利器之梯度下降（Gradient Descend）](https://blog.csdn.net/jiaolong724/article/details/79955673)
 *   [一文简述多种无监督聚类算法的Python实现](http://zhuanlan.51cto.com/art/201805/574750.htm)
 *   [聊聊机器学习中的那些树](https://www.tuicool.com/articles/7ZFrU3B)
 *   [Deep Learning读书笔记（6）--【卷积神经网络】](https://www.tuicool.com/articles/i2QNfiZ)
@@ -56,7 +70,9 @@
 
 
 ## Python
+*   [用Python进行奇异值分解（SVD）实战指南](https://zhuanlan.zhihu.com/p/37542414)
 *   [Python 中的元编程](https://www.ibm.com/developerworks/cn/analytics/library/ba-metaprogramming-python/index.html?ca=drs-)
+*   [python异步编程之asyncio（百万并发）](http://www.cnblogs.com/shenh/p/9090586.html)
 
 
 ## 毕业
