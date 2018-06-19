@@ -17,6 +17,7 @@
 *   [漫谈虚拟内存](http://www.cnblogs.com/neal-ke/p/8711561.html)
 *   [虚拟内存](http://joakimliu.github.io/2018/03/16/Virtual-Memory/)
 *   [Buffer Cache 原理](https://blog.csdn.net/robinson1988/article/details/5982996)
+*   [每个程序员都应该了解的内存知识【第一部分】](https://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1)
 
 # C#
 *   [EF之Code First代码优先](https://blog.csdn.net/u011872945/article/details/72955908)
@@ -27,6 +28,9 @@
 *   [一篇文章看明白 C++ 虚函数表](http://www.jizhuomi.com/software/718.html)
 *   [QT入门安装篇+helloworld(辛酸血泪)](https://blog.csdn.net/qq_37059483/article/details/77800592)
 *   [深入理解C++ new/delete, new []/delete[]动态内存管理](http://www.cnblogs.com/tp-16b/p/8684298.html)
+*   [Qt快速入门系列教程目录](http://www.qter.org/portal.php?mod=view&aid=26)
+*   [Qt 主窗口点击按钮 弹出另一个自定义窗口](https://blog.csdn.net/coldplayplay/article/details/78566151)
+*   [码农英语课堂 0x0b：面向对象诞生的历史](https://mp.weixin.qq.com/s/xvhhGgpsxBV_ho7i1STkCg)
 
 
 
@@ -49,12 +53,14 @@
 *   [JavaScript 奇怪事件簿](https://zhuanlan.zhihu.com/p/33986820)  
 ![js](image/js.png)  
 *   [常见的JavaScript内存泄露](https://github.com/zhansingsong/js-leakage-patterns)
+*   [学习Promise，掌握未来世界JS异步编程基础](http://blog.guowenfh.com/2018/06/04/2018/learning-Promise/)
 
 
 ## 网络
 
 *   [从Chrome源码看WebSocket](https://www.yinchengli.com/2018/05/27/chrome-websocket)
 *   [一文读懂 WebSocket 通信过程与实现 ](https://mp.weixin.qq.com/s?__biz=MzA3OTgyMDcwNg==&mid=2650635184&idx=2&sn=e58e831b9f51feabe80152476c1cc2cf)
+*   [我是一个爬虫](https://mp.weixin.qq.com/s/CshEl5wOYl6PGod-W3zilg)
 
 
 ## 机器学习
@@ -67,6 +73,7 @@
 *   [聊聊机器学习中的那些树](https://www.tuicool.com/articles/7ZFrU3B)
 *   [从无监督构建词库看「最小熵原理」，套路是如何炼成的](https://www.tuicool.com/articles/mIRjMnf)
 *   [聊聊机器学习中的那些树](https://www.tuicool.com/articles/7ZFrU3B)
+*   [用中文传话游戏理解 RNN](https://www.leiphone.com/news/201805/0jC6kzYO93pyiHMP.html)
 
 
 ## Python
@@ -100,6 +107,7 @@
 比如我和火箭科学家说，你那火箭不行，燃料不好，我认为得烧柴，最好是煤，煤最好选精煤，水洗煤不好。
 如果那个科学家拿正眼看我一眼，那他就输了。”  
 *   [被冤枉、被带节奏！你联想明明投票给了华为为何还说不清？](https://zhuanlan.zhihu.com/p/36910391)
+*   [明知道对自己不好，却总停不下来？| 关于“自律”的科学](https://zhuanlan.zhihu.com/p/37920654)
 
 
 
