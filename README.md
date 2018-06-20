@@ -1,3 +1,4 @@
+*   [浅谈数据库事务](https://www.jianshu.com/p/8c19c434c94f?)
 # 本仓库用来存放我看过的认为比较好的文章以及好句精选--根据分类排序
 若想看根据时间排序 [good-articles-by-time](https://github.com/zhang0peter/good-articles-by-time)
 
@@ -7,6 +8,8 @@
 
 
 ## 计算机底层
+*   [32.Linux-2440下的DMA驱动(详解)](http://www.cnblogs.com/lifexy/p/7880737.html)
+*   [VFIO ——将 DMA 映射暴露给用户态](https://ggaaooppeenngg.github.io/zh-CN/2017/06/05/VFIO-%E2%80%94%E2%80%94%E5%B0%86-DMA-%E6%98%A0%E5%B0%84%E6%9A%B4%E9%9C%B2%E7%BB%99%E7%94%A8%E6%88%B7%E6%80%81/)
 *   [Python 标准库之 LRU 缓存实现学习 ](https://mp.weixin.qq.com/s?__biz=MzAwOTQ4MzY1Nw==&mid=2247486012&idx=2&sn=770e9bf6075262eb28b6ce9762fc8b10&chksm=9b5faedaac2827cc5d4ea1ab19e95566a97f8d6d05b1ce1a259b0730ca85b594ea3f01ac871f&mpshare=1&scene=23&srcid=0605xmUnKn5EA7OlTJSStn78#rd)
 *   [从VS的dumpbin目录谈x86,i386,x86-64,amd64](http://durant35.github.io/2016/09/17/hsw_%E4%BB%8EVS%E7%9A%84dumpbin%E7%9B%AE%E5%BD%95%E8%B0%88x86,i386,x86-64,amd64/)
 *   [Cache为什么有那么多级？为什么一级比一级大？是不是Cache越大越好？](https://zhuanlan.zhihu.com/p/32058808)
@@ -18,13 +21,21 @@
 *   [虚拟内存](http://joakimliu.github.io/2018/03/16/Virtual-Memory/)
 *   [Buffer Cache 原理](https://blog.csdn.net/robinson1988/article/details/5982996)
 *   [每个程序员都应该了解的内存知识【第一部分】](https://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1)
+*   [用户态DMA的问题](https://zhuanlan.zhihu.com/p/28742793)
 
-# C#
+
+## 数据库
+*   [数据库事务隔离级别与并发事务控制（悲观锁与乐观锁）](http://www.wujianjun.org/2016/05/27/transaction-isolation-levels/)
+*   [浅谈数据库事务](https://www.jianshu.com/p/8c19c434c94f)
+
+
+## C#
 *   [EF之Code First代码优先](https://blog.csdn.net/u011872945/article/details/72955908)
 *   [WebSocket在ASP.NET MVC4中的简单实现 ](https://www.cnblogs.com/zxtceq/p/7278454.html)
 *   [Entity Framework Code First使用DbContext查询](https://www.cnblogs.com/libingql/p/3372995.html)
 
 ## C++
+*   [关于使用QTcpSocket的一些总结](https://blog.csdn.net/u011125673/article/details/50474491)
 *   [一篇文章看明白 C++ 虚函数表](http://www.jizhuomi.com/software/718.html)
 *   [QT入门安装篇+helloworld(辛酸血泪)](https://blog.csdn.net/qq_37059483/article/details/77800592)
 *   [深入理解C++ new/delete, new []/delete[]动态内存管理](http://www.cnblogs.com/tp-16b/p/8684298.html)
@@ -74,6 +85,7 @@
 *   [从无监督构建词库看「最小熵原理」，套路是如何炼成的](https://www.tuicool.com/articles/mIRjMnf)
 *   [聊聊机器学习中的那些树](https://www.tuicool.com/articles/7ZFrU3B)
 *   [用中文传话游戏理解 RNN](https://www.leiphone.com/news/201805/0jC6kzYO93pyiHMP.html)
+*   [自然语言处理中句子相似度计算的几种方法](https://cuiqingcai.com/6101.html)
 
 
 ## Python
@@ -86,6 +98,7 @@
 *   [毕业论文文献综述撰写模板](https://zhuanlan.zhihu.com/p/31682742)
 *   [我的面经，渗透测试](http://www.lofter.com/lpost/1f350fa3_125b03d2)
 *   [毕业季是各种情绪的爆发，这里有 11 个建议和方法帮你度过它 | Hack Your Life](http://www.qdaily.com/cards/53628.html)
+*   [美国 CS PhD 申请总结](https://mp.weixin.qq.com/s/or4WAI51gPdoPX5OSYH5oA)
 
 ## 技术杂类
 *   [Docker底层技术](https://www.jianshu.com/p/7a1ce51a0eba)
@@ -108,6 +121,7 @@
 如果那个科学家拿正眼看我一眼，那他就输了。”  
 *   [被冤枉、被带节奏！你联想明明投票给了华为为何还说不清？](https://zhuanlan.zhihu.com/p/36910391)
 *   [明知道对自己不好，却总停不下来？| 关于“自律”的科学](https://zhuanlan.zhihu.com/p/37920654)
+*   [股灾三年祭：从狂热到崩塌](https://www.huxiu.com/article/248771.html)
 
 
 
