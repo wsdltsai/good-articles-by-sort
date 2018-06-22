@@ -1,4 +1,3 @@
-*   [浅谈数据库事务](https://www.jianshu.com/p/8c19c434c94f?)
 # 本仓库用来存放我看过的认为比较好的文章以及好句精选--根据分类排序
 若想看根据时间排序 [good-articles-by-time](https://github.com/zhang0peter/good-articles-by-time)
 
@@ -33,6 +32,12 @@
 *   [EF之Code First代码优先](https://blog.csdn.net/u011872945/article/details/72955908)
 *   [WebSocket在ASP.NET MVC4中的简单实现 ](https://www.cnblogs.com/zxtceq/p/7278454.html)
 *   [Entity Framework Code First使用DbContext查询](https://www.cnblogs.com/libingql/p/3372995.html)
+*   [自己动手写一个简单的MVC框架（第一版）](http://www.cnblogs.com/edisonchou/p/5211645.html)
+*   [C# Code First 配置 - alun-chen - 博客园](https://www.cnblogs.com/alunchen/p/6903753.html)
+*   [ASP.NET没有魔法——目录（完结）](http://www.cnblogs.com/selimsong/p/7641799.html)
+*   [ASP.Net MVC开发基础学习笔记：一、走向MVC模式](http://www.cnblogs.com/edisonchou/p/3911558.html)
+*   [1.什么是Code First(EF Code First 系列)](https://www.cnblogs.com/caofangsheng/p/5020541.html)
+*   [8天掌握EF的Code First开发之Entity Framework介绍](http://www.cnblogs.com/farb/p/IntroductionToEF.html)
 
 ## C++
 *   [关于使用QTcpSocket的一些总结](https://blog.csdn.net/u011125673/article/details/50474491)
@@ -42,6 +47,7 @@
 *   [Qt快速入门系列教程目录](http://www.qter.org/portal.php?mod=view&aid=26)
 *   [Qt 主窗口点击按钮 弹出另一个自定义窗口](https://blog.csdn.net/coldplayplay/article/details/78566151)
 *   [码农英语课堂 0x0b：面向对象诞生的历史](https://mp.weixin.qq.com/s/xvhhGgpsxBV_ho7i1STkCg)
+*   [C++:undefined reference to vtable 原因与解决办法 [转]](https://blog.csdn.net/ai2000ai/article/details/47317863)
 
 
 
@@ -55,6 +61,7 @@
 
 ## 数据结构
 *   [波兰表示法与表达式树](https://zhuanlan.zhihu.com/p/38013510)
+*   [函数式编程简介](https://lambeta.com/2018/02/17/The-Simple-Summary-of-FP/)
 
 
 ## 前端
@@ -86,6 +93,8 @@
 *   [聊聊机器学习中的那些树](https://www.tuicool.com/articles/7ZFrU3B)
 *   [用中文传话游戏理解 RNN](https://www.leiphone.com/news/201805/0jC6kzYO93pyiHMP.html)
 *   [自然语言处理中句子相似度计算的几种方法](https://cuiqingcai.com/6101.html)
+*   [机器学习实战之KNN算法](https://ask.hellobi.com/blog/luoluopan/12227)
+*   [深度学习线性代数简明教程](https://zhuanlan.zhihu.com/p/37712236)
 
 
 ## Python
