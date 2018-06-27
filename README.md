@@ -21,11 +21,20 @@
 *   [Buffer Cache 原理](https://blog.csdn.net/robinson1988/article/details/5982996)
 *   [每个程序员都应该了解的内存知识【第一部分】](https://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1)
 *   [用户态DMA的问题](https://zhuanlan.zhihu.com/p/28742793)
+*   [学习一门新语言需要了解的基础-05 虚拟内存](http://www.cnblogs.com/lyj/p/foundation_05_virtualmemory_free.html)
+*   [你真的了解虚拟内存和物理内存的区别和联系吗?](http://blog.csdn.net/dawn_sf/article/details/78645304)
+*   [朝花夕拾-3-TLB & cache](http://blog.csdn.net/rill_zhen/article/details/8167389)
+*   [booth乘法器原理](http://blog.csdn.net/u013467442/article/details/40217749)
 
 
 ## 数据库
 *   [数据库事务隔离级别与并发事务控制（悲观锁与乐观锁）](http://www.wujianjun.org/2016/05/27/transaction-isolation-levels/)
 *   [浅谈数据库事务](https://www.jianshu.com/p/8c19c434c94f)
+*   [记住，永远不要在MySQL中使用“utf8”](http://www.infoq.com/cn/articles/in-mysql-never-use-utf8-use-utf8)
+*   [B树和B+树的插入、删除图文详解](http://www.cnblogs.com/nullzx/p/8729425.html)
+*   [一文说尽MySQL优化原理，值得你看！](http://database.51cto.com/art/201805/573941.htm)
+*   [数据库设计入门指南与学习笔记](https://hufangyun.com/2018/sql-design/)
+*   [数据库管理提速：SQL解析的探索与应用](http://database.51cto.com/art/201806/576694.htm)
 
 
 ## C#
@@ -58,6 +67,13 @@
 *   [被长期忽视、却危害巨大的邮件追踪术](http://36kr.com/p/5136373.html)
 *   [非对称加密和证书总结](https://tlanyan.me/asymmetric-encryption-and-certificate-summary/)
 *   [HTTPS 原理详解](http://liuduo.me/2018/05/14/https-detail/)
+*   [常用校验码（奇偶校验，海明校验，CRC）学习总结](http://www.cnblogs.com/FZfangzheng/p/8519791.html)
+*   [CRC校验算法](https://blog.csdn.net/LLZK_/article/details/59588663)
+*   [算法逆向2——CRC32_逆向](https://bbs.ichunqiu.com/thread-30717-1-1.html)
+*   [RC4 C++ 和 Python 实现](http://www.jianshu.com/p/fcfdcc3ff9d5)
+*   [RC4加密](http://ihaoming.top/2017/11/06/RC%E5%8A%A0%E5%AF%86/)
+*   [加密解密算法之RC4](https://www.biaodianfu.com/rc4.html)
+
 
 ## 数据结构
 *   [波兰表示法与表达式树](https://zhuanlan.zhihu.com/p/38013510)
@@ -95,6 +111,7 @@
 *   [自然语言处理中句子相似度计算的几种方法](https://cuiqingcai.com/6101.html)
 *   [机器学习实战之KNN算法](https://ask.hellobi.com/blog/luoluopan/12227)
 *   [深度学习线性代数简明教程](https://zhuanlan.zhihu.com/p/37712236)
+*   [KNN（三）--KD树详解及KD树最近邻算法](https://blog.csdn.net/app_12062011/article/details/51986805)
 
 
 ## Python
@@ -113,6 +130,7 @@
 *   [Docker底层技术](https://www.jianshu.com/p/7a1ce51a0eba)
 *   [Docker：一场令人追悔莫及的豪赌](http://dockone.io/article/5520)
 *   [骗局揭秘：醒醒吧韭菜！有图未必有真相](https://zhuanlan.zhihu.com/p/36438458)
+*   [8 个基本的 Docker 容器管理命令](https://linux.cn/article-9768-1.html)
 
 ## 好奇心日报
 *   [中国拒绝“洋垃圾”对美国垃圾回收意味着什么？](http://www.qdaily.com/articles/53795.html)
@@ -131,6 +149,7 @@
 *   [被冤枉、被带节奏！你联想明明投票给了华为为何还说不清？](https://zhuanlan.zhihu.com/p/36910391)
 *   [明知道对自己不好，却总停不下来？| 关于“自律”的科学](https://zhuanlan.zhihu.com/p/37920654)
 *   [股灾三年祭：从狂热到崩塌](https://www.huxiu.com/article/248771.html)
+*   [把代码免费分享的这种程序员精神，其他领域为什么不学学？](http://daily.zhihu.com/story/9687706)
 
 
 
