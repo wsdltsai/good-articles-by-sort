@@ -25,6 +25,11 @@
 *   [你真的了解虚拟内存和物理内存的区别和联系吗?](http://blog.csdn.net/dawn_sf/article/details/78645304)
 *   [朝花夕拾-3-TLB & cache](http://blog.csdn.net/rill_zhen/article/details/8167389)
 *   [booth乘法器原理](http://blog.csdn.net/u013467442/article/details/40217749)
+*   [内存对齐(内存中的数据对齐)、大端模式及小端模式](http://blog.csdn.net/feitianxuxue/article/details/7350589)
+*   [怎么理解Booth算法?](https://www.zhihu.com/question/37637775)
+*   [三种串行总线的区别](http://www.jianshu.com/p/b2bb49346b32)
+*   [TLB和cache的关系](http://blog.csdn.net/yusiguyuan/article/details/39373079)
+*   [深入浅出虚拟内存机制](http://www.jianshu.com/p/13e337312651)
 
 
 ## 数据库
@@ -88,6 +93,13 @@
 ![js](image/js.png)  
 *   [常见的JavaScript内存泄露](https://github.com/zhansingsong/js-leakage-patterns)
 *   [学习Promise，掌握未来世界JS异步编程基础](http://blog.guowenfh.com/2018/06/04/2018/learning-Promise/)
+*   [记一次两小时的js编程学习](http://www.jianshu.com/p/15f2e1e70720)
+*   [深入学习js的面向对象](https://www.jianshu.com/p/afdb33d01f6f)
+*   [抛开jQuery，拾起原生JS的DOM操作](http://www.cnblogs.com/zjjDaily/p/9214519.html)
+*   [JS学习系列 07 - 标签声明（Label Statement）](http://blog.liuxuan.site/2018/03/10/javascript_07_label_statement/)
+*   [js学习日记-变量的坑](http://www.cnblogs.com/94pm/p/9174829.html)
+*   [javascript基础学习心得01](http://www.cnblogs.com/endymion/p/9165134.html)
+*   [深入学习JS执行--单线程的JS](http://www.cnblogs.com/Ry-yuan/p/7865480.html)
 
 
 ## 网络
@@ -95,6 +107,7 @@
 *   [从Chrome源码看WebSocket](https://www.yinchengli.com/2018/05/27/chrome-websocket)
 *   [一文读懂 WebSocket 通信过程与实现 ](https://mp.weixin.qq.com/s?__biz=MzA3OTgyMDcwNg==&mid=2650635184&idx=2&sn=e58e831b9f51feabe80152476c1cc2cf)
 *   [我是一个爬虫](https://mp.weixin.qq.com/s/CshEl5wOYl6PGod-W3zilg)
+*   [HTTP 内容编码，也就这 2 点需要知道 | 实用 HTTP](http://zhuanlan.51cto.com/art/201806/577218.htm)
 
 
 ## 机器学习
