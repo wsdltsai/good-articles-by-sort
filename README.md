@@ -1,6 +1,6 @@
 # 本仓库用来存放我看过的认为比较好的文章以及好句精选--根据分类排序
 若想看根据时间排序 [good-articles-by-time](https://github.com/zhang0peter/good-articles-by-time)
-
+## 大部分网站我都有网页的图片版在web文件夹里
 
 ## 精选
 *   据称有**一千万**的阅读量 [《程序员技术练级攻略》](https://coolshell.cn/articles/4990.html)
@@ -163,6 +163,7 @@
 *   [明知道对自己不好，却总停不下来？| 关于“自律”的科学](https://zhuanlan.zhihu.com/p/37920654)
 *   [股灾三年祭：从狂热到崩塌](https://www.huxiu.com/article/248771.html)
 *   [把代码免费分享的这种程序员精神，其他领域为什么不学学？](http://daily.zhihu.com/story/9687706)
+*   [为什么印度选择日本高铁？](https://zhuanlan.zhihu.com/p/34398719)
 
 
 
