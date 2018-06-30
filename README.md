@@ -40,6 +40,11 @@
 *   [一文说尽MySQL优化原理，值得你看！](http://database.51cto.com/art/201805/573941.htm)
 *   [数据库设计入门指南与学习笔记](https://hufangyun.com/2018/sql-design/)
 *   [数据库管理提速：SQL解析的探索与应用](http://database.51cto.com/art/201806/576694.htm)
+*   [理解数据库索引](http://hawk0620.github.io/blog/2018/05/29/understand-index/)
+*   [数据库事务与并发控制](http://threezj.com/2016/12/30/%E6%95%B0%E6%8D%AE%E5%BA%93%E4%BA%8B%E5%8A%A1%E4%B8%8E%E5%B9%B6%E5%8F%91%E6%8E%A7%E5%88%B6/)
+*   [【眼见为实】数据库并发问题 封锁协议 隔离级别](http://www.cnblogs.com/songwenjie/p/8644674.html)
+*   [MYSQL数据库死锁的原因和解决方法](http://uule.iteye.com/blog/2422193)
+*   [Mysql系列-数据库](http://www.cnblogs.com/ManyQian/p/9004516.html)
 
 
 ## C#
@@ -78,6 +83,7 @@
 *   [RC4 C++ 和 Python 实现](http://www.jianshu.com/p/fcfdcc3ff9d5)
 *   [RC4加密](http://ihaoming.top/2017/11/06/RC%E5%8A%A0%E5%AF%86/)
 *   [加密解密算法之RC4](https://www.biaodianfu.com/rc4.html)
+*   [老歌新唱|PUNYCODE再利用](http://www.lz1y.cn/archives/1469.html)
 
 
 ## 数据结构
@@ -100,6 +106,10 @@
 *   [js学习日记-变量的坑](http://www.cnblogs.com/94pm/p/9174829.html)
 *   [javascript基础学习心得01](http://www.cnblogs.com/endymion/p/9165134.html)
 *   [深入学习JS执行--单线程的JS](http://www.cnblogs.com/Ry-yuan/p/7865480.html)
+*   [JS学习系列 01 - 编译原理和作用域](https://blog.liuxuan.site/2017/02/10/javascript_01_principles_of_compiler/)
+*   [JS学习系列 02 - 词法作用域](http://www.jianshu.com/p/47feedd77262)
+*   [JS学习系列 04 - 提升](https://segmentfault.com/a/1190000008442442)
+*   [JavaScript学习笔记：querySelectorAll 和 getElementsByTagName区别](https://www.w3cplus.com/javascript/querySelectorAll-vs-getElementsByTagName.html)
 
 
 ## 网络
@@ -149,6 +159,7 @@
 *   [中国拒绝“洋垃圾”对美国垃圾回收意味着什么？](http://www.qdaily.com/articles/53795.html)
 *   [正视历史，接受批评，是人类得以进步的原因 | 我们如何与未来相处⑤](http://www.qdaily.com/articles/52682.html)
 *   [毕业季是各种情绪的爆发，这里有 11 个建议和方法帮你度过它 | Hack Your Life](http://www.qdaily.com/cards/53628.html)
+*   [互联网公司扎堆上市，为什么是现在？](http://www.qdaily.com/articles/54764.html)
 
 ## 非技术杂类
 *   [举头三尺有铁拳](https://www.huxiu.com/article/246308.html)
