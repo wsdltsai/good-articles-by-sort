@@ -152,8 +152,11 @@
 ## 技术杂类
 *   [Docker底层技术](https://www.jianshu.com/p/7a1ce51a0eba)
 *   [Docker：一场令人追悔莫及的豪赌](http://dockone.io/article/5520)
-*   [骗局揭秘：醒醒吧韭菜！有图未必有真相](https://zhuanlan.zhihu.com/p/36438458)
 *   [8 个基本的 Docker 容器管理命令](https://linux.cn/article-9768-1.html)
+
+*   [UML之需求利器——用例模型](https://blog.csdn.net/zhang_xinxiu/article/details/8574801)
+*   [UML功能模型（用例图）](https://blog.csdn.net/lu930124/article/details/19282933)
+*   [骗局揭秘：醒醒吧韭菜！有图未必有真相](https://zhuanlan.zhihu.com/p/36438458)
 
 ## 好奇心日报
 *   [中国拒绝“洋垃圾”对美国垃圾回收意味着什么？](http://www.qdaily.com/articles/53795.html)
