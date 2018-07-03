@@ -45,6 +45,9 @@
 *   [【眼见为实】数据库并发问题 封锁协议 隔离级别](http://www.cnblogs.com/songwenjie/p/8644674.html)
 *   [MYSQL数据库死锁的原因和解决方法](http://uule.iteye.com/blog/2422193)
 *   [Mysql系列-数据库](http://www.cnblogs.com/ManyQian/p/9004516.html)
+*   [【软考】之强实体、弱实体](https://blog.csdn.net/u013067756/article/details/49046389)
+*   [程序员必修课--sql思维举重训练](https://blog.csdn.net/lk_blog/article/details/7585540)
+*   [SQl训练题总结](https://blog.csdn.net/lhylmt/article/details/52079408)
 
 
 ## C#
