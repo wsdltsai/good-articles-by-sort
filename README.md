@@ -70,6 +70,16 @@
 *   [Qt 主窗口点击按钮 弹出另一个自定义窗口](https://blog.csdn.net/coldplayplay/article/details/78566151)
 *   [码农英语课堂 0x0b：面向对象诞生的历史](https://mp.weixin.qq.com/s/xvhhGgpsxBV_ho7i1STkCg)
 *   [C++:undefined reference to vtable 原因与解决办法 [转]](https://blog.csdn.net/ai2000ai/article/details/47317863)
+*   [C++中虚函数不能是inline函数的原因](https://blog.csdn.net/flydreamforever/article/details/61429140)
+*   [c++内联函数与静态函数](https://www.cnblogs.com/dongzhuangdian/p/5080873.html)
+*   [C++性能榨汁机之指针与引用](http://irootlee.com/juicer_pointer_reference/)
+*   [C++引用指针 & 构造函数](http://www.cnblogs.com/tp-16b/p/8619813.html)
+*   [C++函数重载(3) - 函数重载中的const关键字](https://blog.csdn.net/shltsh/article/details/45939977)
+*   [一篇文章看明白 C++ 虚函数表](http://www.jizhuomi.com/software/718.html)
+*   [C++学习之继承篇（is a:用子类对象给基类对象赋值或初始化）](https://blog.csdn.net/hudfang/article/details/50544371)
+*   [探索C++多态和实现机理](http://www.cnblogs.com/tp-16b/p/8904581.html)
+*   [C++雾中风景4：多态引出的困惑，对象的拷贝？](http://www.cnblogs.com/happenlee/p/8037391.html)
+*   [浅析 C++ 继承与派生](http://blog.jobbole.com/108510/)
 
 
 
