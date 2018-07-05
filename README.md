@@ -179,6 +179,11 @@
 *   [毕业季是各种情绪的爆发，这里有 11 个建议和方法帮你度过它 | Hack Your Life](http://www.qdaily.com/cards/53628.html)
 *   [互联网公司扎堆上市，为什么是现在？](http://www.qdaily.com/articles/54764.html)
 
+## 赵皓阳
+*   [特权阶级的自我毁灭——苏联是怎样一步步走向解体的](https://mp.weixin.qq.com/s?__biz=MzI1Njc0NTAzOQ==&mid=2247483661&idx=1&sn=d5df8e53b0d25107c2f5d7ac4688081f&chksm=ea234a2ddd54c33baa5731dcc3c7e3f25ed13fa9df02da73987fce3ce37bf7c0cfcd95f56bb4&mpshare=1&scene=23&srcid=0705UJsgePb2bHTVUf3m75VO#rd)
+
+
+
 ## 非技术杂类
 *   [举头三尺有铁拳](https://www.huxiu.com/article/246308.html)
 *   [在 Bilibili 学技能涨知识，我推荐这 14 个频道](https://sspai.com/post/44652)
