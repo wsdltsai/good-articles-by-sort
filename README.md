@@ -109,7 +109,6 @@
 *   [JavaScript 新手的踩坑日记](http://www.cocoachina.com/ios/20170619/19573.html)
 *   [JavaScript || 对象](https://segmentfault.com/a/1190000008521798)
 *   [JavaScript 奇怪事件簿](https://zhuanlan.zhihu.com/p/33986820)  
-![js](image/js.png)  
 *   [常见的JavaScript内存泄露](https://github.com/zhansingsong/js-leakage-patterns)
 *   [学习Promise，掌握未来世界JS异步编程基础](http://blog.guowenfh.com/2018/06/04/2018/learning-Promise/)
 *   [记一次两小时的js编程学习](http://www.jianshu.com/p/15f2e1e70720)
