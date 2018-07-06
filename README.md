@@ -102,6 +102,17 @@
 ## 数据结构
 *   [波兰表示法与表达式树](https://zhuanlan.zhihu.com/p/38013510)
 *   [函数式编程简介](https://lambeta.com/2018/02/17/The-Simple-Summary-of-FP/)
+*   [搜索引擎概述之倒排索引索引](http://www.cnblogs.com/meibaorui/p/9125807.html)
+*   [搜索引擎之倒排索引解读](https://zhuanlan.zhihu.com/p/28320841)
+*   [正排索引与倒排索引](http://www.cnblogs.com/Onlywjy/p/8372452.html)
+*   [那些年，面试被虐过的红黑树](http://www.zhenchao.org/2018/03/25/rb-tree/)
+*   [红黑树的原理和常见操作](https://www.jianshu.com/p/6f6642b982af)
+*   [寻找红黑树的操作手册](http://dandanlove.com/2018/03/18/red-black-tree/)
+*   [伸展树的基本操作与应用](http://www.docin.com/p-63165342.html)
+*   [二叉搜索树的平衡--AVL树和树的旋转（图解）](http://www.cnblogs.com/idreamo/p/8308336.html)
+*   [K：平衡二叉树(AVL)](http://www.cnblogs.com/MyStringIsNotNull/p/8306848.html)
+*   [一种简单的平衡树-AVL树](https://segmentfault.com/a/1190000005068058)
+*   [平衡树初阶——AVL平衡二叉查找树+三大平衡树（Treap + Splay + SBT）模板【超详解】 - Angel_Kitty - 博客园](http://www.cnblogs.com/ECJTUACM-873284962/p/7045701.html)
 
 
 ## 前端
