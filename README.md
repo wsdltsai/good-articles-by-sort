@@ -4,6 +4,7 @@
 
 ## 精选
 *   据称有**一千万**的阅读量 [《程序员技术练级攻略》](https://coolshell.cn/articles/4990.html)
+*   [中国庞氏骗局的灭亡](http://www.kanshangjie.com/article/152047-1.html)
 
 
 ## 计算机底层
@@ -97,10 +98,17 @@
 *   [C++引用指针 & 构造函数](http://www.cnblogs.com/tp-16b/p/8619813.html)
 *   [C++函数重载(3) - 函数重载中的const关键字](https://blog.csdn.net/shltsh/article/details/45939977)
 *   [一篇文章看明白 C++ 虚函数表](http://www.jizhuomi.com/software/718.html)
+*   [C++智能指针 shared_ptr](https://www.cnblogs.com/diysoul/p/5930361.html)
+*   [智能指针shared_ptr的用法](https://www.cnblogs.com/jiayayao/archive/2016/12/03/6128877.html)
+*   [智能指针之shared_ptr](https://blog.csdn.net/qq_33452263/article/details/79062426)
 *   [C++学习之继承篇（is a:用子类对象给基类对象赋值或初始化）](https://blog.csdn.net/hudfang/article/details/50544371)
 *   [探索C++多态和实现机理](http://www.cnblogs.com/tp-16b/p/8904581.html)
 *   [C++雾中风景4：多态引出的困惑，对象的拷贝？](http://www.cnblogs.com/happenlee/p/8037391.html)
 *   [浅析 C++ 继承与派生](http://blog.jobbole.com/108510/)
+*   [Qt中的MVC （模型/视图结构）](https://blog.csdn.net/rl529014/article/details/52072380)
+*   [Qt4-MVC模式的一些基本概念](https://www.adamfei.com/qt4-mvc-1-some-basic-concepts-of-mvc-pattern/)
+*   [Qt MVC设计模式：子类化抽象模型的方法](https://blog.csdn.net/qq_19672579/article/details/47042395)
+*   [“Why Not”使用QML实现一个MVVM框架](http://www.qtcn.org/bbs/read-htm-tid-62886.html)
 
 
 
@@ -188,6 +196,8 @@
 
 
 ## 前端
+*   [为什么给你设置重重障碍？讲一讲Web开发中的跨域](https://zhuanlan.zhihu.com/p/39466226)
+*   [危险的 target="_blank" 与 “opener”](https://paper.seebug.org/538/)
 *   [《我的职业是前端工程师》 - Ebook：I'm a FrontEnd Developer ](https://github.com/phodal/fe)
 *   [JavaScript 新手的踩坑日记](http://www.cocoachina.com/ios/20170619/19573.html)
 *   [JavaScript || 对象](https://segmentfault.com/a/1190000008521798)
@@ -215,6 +225,7 @@
 *   [一文读懂 WebSocket 通信过程与实现 ](https://mp.weixin.qq.com/s?__biz=MzA3OTgyMDcwNg==&mid=2650635184&idx=2&sn=e58e831b9f51feabe80152476c1cc2cf)
 *   [我是一个爬虫](https://mp.weixin.qq.com/s/CshEl5wOYl6PGod-W3zilg)
 *   [HTTP 内容编码，也就这 2 点需要知道 | 实用 HTTP](http://zhuanlan.51cto.com/art/201806/577218.htm)
+*   [python socket网络编程之粘包问题详解](http://www.cnblogs.com/wj-1314/p/8953148.html)
 
 
 ## 机器学习
@@ -235,9 +246,11 @@
 
 
 ## Python
+
 *   [用Python进行奇异值分解（SVD）实战指南](https://zhuanlan.zhihu.com/p/37542414)
 *   [Python 中的元编程](https://www.ibm.com/developerworks/cn/analytics/library/ba-metaprogramming-python/index.html?ca=drs-)
 *   [python异步编程之asyncio（百万并发）](http://www.cnblogs.com/shenh/p/9090586.html)
+*   [Python 字节码介绍](https://linux.cn/article-9816-1.html)
 
 
 ## 毕业
@@ -254,6 +267,10 @@
 *   [UML之需求利器——用例模型](https://blog.csdn.net/zhang_xinxiu/article/details/8574801)
 *   [UML功能模型（用例图）](https://blog.csdn.net/lu930124/article/details/19282933)
 *   [骗局揭秘：醒醒吧韭菜！有图未必有真相](https://zhuanlan.zhihu.com/p/36438458)
+*   [云端持续集成——AppVeyor拥抱GitHub](https://www.cnblogs.com/henryzhu/p/contentious-integration-with-appveyor.html)
+*   [你真的理解了MVC, MVP, MVVM吗？](https://mp.weixin.qq.com/s?__biz=MzAxOTc0NzExNg==&mid=2665514440&idx=1&sn=f24bb68037dce238b47288362e0964e2&chksm=80d67d8bb7a1f49d36c941cee72a10e37f2eb59b95430694e14b5ff0f104b1ac6466e14af63f&mpshare=1&scene=23&srcid=0713RG0s4InmOPhmwubXovh0#rd)
+
+
 
 ## 好奇心日报
 *   [中国拒绝“洋垃圾”对美国垃圾回收意味着什么？](http://www.qdaily.com/articles/53795.html)
@@ -262,7 +279,9 @@
 *   [互联网公司扎堆上市，为什么是现在？](http://www.qdaily.com/articles/54764.html)
 
 ## 赵皓阳
+
 *   [特权阶级的自我毁灭——苏联是怎样一步步走向解体的](https://mp.weixin.qq.com/s?__biz=MzI1Njc0NTAzOQ==&mid=2247483661&idx=1&sn=d5df8e53b0d25107c2f5d7ac4688081f&chksm=ea234a2ddd54c33baa5731dcc3c7e3f25ed13fa9df02da73987fce3ce37bf7c0cfcd95f56bb4&mpshare=1&scene=23&srcid=0705UJsgePb2bHTVUf3m75VO#rd)
+*   [穷人的生命权与知识产权——《我不是药神》中的核心矛盾如何破解](https://mp.weixin.qq.com/s?__biz=MjM5NzE2NTY0Ng==&mid=2650674212&idx=1&sn=7bdeefb77be7fb0c10a92104ab296649&chksm=bed49b0589a31213b2bc4632263e9c80748c38bf48c9ee686665b0c3eabb8139951bc8daf4db&mpshare=1&scene=23&srcid=0713JyJVukxcDMOlUY0yEvCL#rd)
 
 
 
@@ -280,6 +299,15 @@
 *   [股灾三年祭：从狂热到崩塌](https://www.huxiu.com/article/248771.html)
 *   [把代码免费分享的这种程序员精神，其他领域为什么不学学？](http://daily.zhihu.com/story/9687706)
 *   [为什么印度选择日本高铁？](https://zhuanlan.zhihu.com/p/34398719)
+*   [你是不是药神我不清楚，但你似乎不懂经济学](https://mp.weixin.qq.com/s?__biz=MzA3MDMwOTcwMg==&mid=2650005402&idx=1&sn=791b161a7c6b28f5550fc4fbe79fbfba&chksm=8739bdb3b04e34a566586e23a2dc63188c76bba57f6c6b20e0c5eba806ac5a29775e2bddfea9&mpshare=1&scene=23&srcid=07111wvzL1G6i5ueUlAlXJyK#rd)
+*   [《我不是药神》：我不想死，我想活着](https://mp.weixin.qq.com/s?__biz=MzA4OTQ1MTQxNg==&mid=2652046462&idx=1&sn=f5c28250041939120fd8ecf2d5719b88&chksm=8bfd1a89bc8a939fcc248fe88970d456f4ac43b4ba99b360be98765b94068ee12094c59c64c8&scene=21#wechat_redirect)
+*   [从药价高昂引申的思考](https://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649867742&idx=1&sn=5667cac7b7591cfc4814eef5ce099998&chksm=f1075fb3c670d6a5c56a77f1b89016c23a9591a9e674fed784e3d1afcc61ddabec10db7b2d62&mpshare=1&scene=23&srcid=0711chUGBE9JZKa9JD09n9Hg#rd)
+*   [感谢印度喂全世界的穷人吃药](https://mp.weixin.qq.com/s?__biz=MzUxMTMwMTMxMw==&mid=2247488883&idx=1&sn=7809bbd8a07ff19a9c590ab2f7647ce7&chksm=f97496ddce031fcba2f15c1c845c27547146641013b75813295147b34b74a62e5112a2379225&mpshare=1&scene=23&srcid=0711XxJP8b1z4xs3fkkky9AF#rd)
+*   [投机的中国人](https://www.huxiu.com/article/251935.html)
+
+
+
+
 
 
 
