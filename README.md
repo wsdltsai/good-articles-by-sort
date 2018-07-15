@@ -277,6 +277,7 @@
 *   [正视历史，接受批评，是人类得以进步的原因 | 我们如何与未来相处⑤](http://www.qdaily.com/articles/52682.html)
 *   [毕业季是各种情绪的爆发，这里有 11 个建议和方法帮你度过它 | Hack Your Life](http://www.qdaily.com/cards/53628.html)
 *   [互联网公司扎堆上市，为什么是现在？](http://www.qdaily.com/articles/54764.html)
+*   [「万物简史」1940 体制如何成就日本奇迹，又如何毁了它](http://www.qdaily.com/articles/54743.html)
 
 ## 赵皓阳
 
