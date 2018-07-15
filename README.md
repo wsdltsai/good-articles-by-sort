@@ -52,6 +52,7 @@
 *   [【计算机本科补全计划】指令：计算机的语言(MIPS) --计算机组成原理](https://www.jianshu.com/p/4d325e5e2161)
 *   [TLB和cache的关系](https://blog.csdn.net/yusiguyuan/article/details/39373079)
 *   [MMU和cache详解（TLB机制）](http://blog.csdn.net/qq_21792169/article/details/51303477)
+*   [Linux 文件系统 EXT4 的前世今生](https://www.oschina.net/translate/introduction-ext4-filesystem)
 
 
 ## 数据库
@@ -217,6 +218,7 @@
 *   [JavaScript学习笔记：querySelectorAll 和 getElementsByTagName区别](https://www.w3cplus.com/javascript/querySelectorAll-vs-getElementsByTagName.html)
 *   [CSS Box Model 盒子模型](http://www.cnblogs.com/polk6/p/css-boxModel.html)
 *   [CSS之盒子模型（深入理解）](http://www.cnblogs.com/JiangLai/p/8595309.html)
+*   [关于Ajax和websocket，你应该知道的事儿](http://www.woshipm.com/ucd/1051915.html)
 
 
 ## 网络
@@ -226,6 +228,7 @@
 *   [我是一个爬虫](https://mp.weixin.qq.com/s/CshEl5wOYl6PGod-W3zilg)
 *   [HTTP 内容编码，也就这 2 点需要知道 | 实用 HTTP](http://zhuanlan.51cto.com/art/201806/577218.htm)
 *   [python socket网络编程之粘包问题详解](http://www.cnblogs.com/wj-1314/p/8953148.html)
+*   [[Python黑客] Python 绝技 —— TCP 服务器与客户端](https://bbs.ichunqiu.com/thread-40798-1-1.html)
 
 
 ## 机器学习
@@ -278,6 +281,7 @@
 *   [毕业季是各种情绪的爆发，这里有 11 个建议和方法帮你度过它 | Hack Your Life](http://www.qdaily.com/cards/53628.html)
 *   [互联网公司扎堆上市，为什么是现在？](http://www.qdaily.com/articles/54764.html)
 *   [「万物简史」1940 体制如何成就日本奇迹，又如何毁了它](http://www.qdaily.com/articles/54743.html)
+*   [过士行：有生命的人被无生命的东西挑战，异化是永远摆脱不了的问题 | 访谈录](http://www.qdaily.com/articles/54894.html)
 
 ## 赵皓阳
 
@@ -305,6 +309,7 @@
 *   [从药价高昂引申的思考](https://mp.weixin.qq.com/s?__biz=MzI0MjA1Mjg2Ng==&mid=2649867742&idx=1&sn=5667cac7b7591cfc4814eef5ce099998&chksm=f1075fb3c670d6a5c56a77f1b89016c23a9591a9e674fed784e3d1afcc61ddabec10db7b2d62&mpshare=1&scene=23&srcid=0711chUGBE9JZKa9JD09n9Hg#rd)
 *   [感谢印度喂全世界的穷人吃药](https://mp.weixin.qq.com/s?__biz=MzUxMTMwMTMxMw==&mid=2247488883&idx=1&sn=7809bbd8a07ff19a9c590ab2f7647ce7&chksm=f97496ddce031fcba2f15c1c845c27547146641013b75813295147b34b74a62e5112a2379225&mpshare=1&scene=23&srcid=0711XxJP8b1z4xs3fkkky9AF#rd)
 *   [投机的中国人](https://www.huxiu.com/article/251935.html)
+*   [软件代理怪兽思杰马克丁](https://www.pingwest.com/a/174830)
 
 
 
