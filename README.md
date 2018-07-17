@@ -7,25 +7,10 @@
 *   [中国庞氏骗局的灭亡](http://www.kanshangjie.com/article/152047-1.html)
 
 
-## [计算机底层](计算机底层.md) 
+# [计算机底层](计算机底层.md) 
  
+# [数据库](数据库.md)
 
-## 数据库
-*   [数据库事务隔离级别与并发事务控制（悲观锁与乐观锁）](http://www.wujianjun.org/2016/05/27/transaction-isolation-levels/)
-*   [浅谈数据库事务](https://www.jianshu.com/p/8c19c434c94f)
-*   [记住，永远不要在MySQL中使用“utf8”](http://www.infoq.com/cn/articles/in-mysql-never-use-utf8-use-utf8)
-*   [B树和B+树的插入、删除图文详解](http://www.cnblogs.com/nullzx/p/8729425.html)
-*   [一文说尽MySQL优化原理，值得你看！](http://database.51cto.com/art/201805/573941.htm)
-*   [数据库设计入门指南与学习笔记](https://hufangyun.com/2018/sql-design/)
-*   [数据库管理提速：SQL解析的探索与应用](http://database.51cto.com/art/201806/576694.htm)
-*   [理解数据库索引](http://hawk0620.github.io/blog/2018/05/29/understand-index/)
-*   [数据库事务与并发控制](http://threezj.com/2016/12/30/%E6%95%B0%E6%8D%AE%E5%BA%93%E4%BA%8B%E5%8A%A1%E4%B8%8E%E5%B9%B6%E5%8F%91%E6%8E%A7%E5%88%B6/)
-*   [【眼见为实】数据库并发问题 封锁协议 隔离级别](http://www.cnblogs.com/songwenjie/p/8644674.html)
-*   [MYSQL数据库死锁的原因和解决方法](http://uule.iteye.com/blog/2422193)
-*   [Mysql系列-数据库](http://www.cnblogs.com/ManyQian/p/9004516.html)
-*   [【软考】之强实体、弱实体](https://blog.csdn.net/u013067756/article/details/49046389)
-*   [程序员必修课--sql思维举重训练](https://blog.csdn.net/lk_blog/article/details/7585540)
-*   [SQl训练题总结](https://blog.csdn.net/lhylmt/article/details/52079408)
 
 
 ## C#
