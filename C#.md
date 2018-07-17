@@ -1,0 +1,10 @@
+# C#
+*   [EF之Code First代码优先](https://blog.csdn.net/u011872945/article/details/72955908)
+*   [WebSocket在ASP.NET MVC4中的简单实现 ](https://www.cnblogs.com/zxtceq/p/7278454.html)
+*   [Entity Framework Code First使用DbContext查询](https://www.cnblogs.com/libingql/p/3372995.html)
+*   [自己动手写一个简单的MVC框架（第一版）](http://www.cnblogs.com/edisonchou/p/5211645.html)
+*   [C# Code First 配置 - alun-chen - 博客园](https://www.cnblogs.com/alunchen/p/6903753.html)
+*   [ASP.NET没有魔法——目录（完结）](http://www.cnblogs.com/selimsong/p/7641799.html)
+*   [ASP.Net MVC开发基础学习笔记：一、走向MVC模式](http://www.cnblogs.com/edisonchou/p/3911558.html)
+*   [1.什么是Code First(EF Code First 系列)](https://www.cnblogs.com/caofangsheng/p/5020541.html)
+*   [8天掌握EF的Code First开发之Entity Framework介绍](http://www.cnblogs.com/farb/p/IntroductionToEF.html)
