@@ -6,7 +6,7 @@
 *   据称有**一千万**的阅读量 [《程序员技术练级攻略》](https://coolshell.cn/articles/4990.html)
 *   [中国庞氏骗局的灭亡](http://www.kanshangjie.com/article/152047-1.html)
 *   [木·田：我在公开信后的一周里（原载于公众号“木田君的镐头”）](https://sikaozhe1997.github.io/Xin-Yue/#/%E6%9C%A8%C2%B7%E7%94%B0%EF%BC%9A%E6%88%91%E5%9C%A8%E5%85%AC%E5%BC%80%E4%BF%A1%E5%90%8E%E7%9A%84%E4%B8%80%E5%91%A8%E9%87%8C.md)
-*   [我是如何拿下一个中学的官方网站的？ - 知乎专栏](https://github.com/zhang0peter/good-articles-by-sort/blob/master/精选/我是如何拿下一个中学的官方网站的？ - 知乎专栏.pdf)
+*   [我是如何拿下一个中学的官方网站的？ - 知乎专栏](https://github.com/zhang0peter/good-articles-by-sort/blob/master/精选/我是如何拿下一个中学的官方网站的-知乎专栏.pdf)
 *   [黑客之死](https://github.com/zhang0peter/good-articles-by-sort/blob/master/%E7%B2%BE%E9%80%89/%E9%BB%91%E5%AE%A2%E4%B9%8B%E6%AD%BB.pdf)
 
 
