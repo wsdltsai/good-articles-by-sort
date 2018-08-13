@@ -15,7 +15,7 @@
 *   [asyncio：高性能异步模块使用介绍](https://mp.weixin.qq.com/s?__biz=MjM5MzgyODQxMQ==&mid=2650368555&idx=1&sn=a449f107c9c16466c51ce8a6939fcb1b&chksm=be9cd17f89eb5869c00e964e42e79400d4c9b993c4c5764ddbf9ef0e4b85741fc4ab05c77dbc&mpshare=1&scene=23&srcid=07163jZEvRwfwwii9F8dKopl#rd)
 *   [Python中异步协程的使用方法介绍](https://cuiqingcai.com/6160.html)
 *   [在 Python 中按需处理数据，第 3 部分 协程和 asyncio](https://www.ibm.com/developerworks/cn/analytics/library/ba-on-demand-data-python-3/index.html)
-*   []()
+*   [最全Python内置函数](http://www.cnblogs.com/wuyongcong/p/9418919.html)
 *   []()
 *   []()
 *   []()
