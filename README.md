@@ -1,4 +1,4 @@
-# 本仓库用来存放我看过的认为比较好的文章以及好句精选--根据分类排序
+# 本仓库用来存放我看过的认为比较好的文章--根据分类排序
 若想看根据时间排序 [good-articles-by-time](https://github.com/zhang0peter/good-articles-by-time)
 
 
