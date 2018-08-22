@@ -5,7 +5,7 @@
 *   [shell十三问--shell教程（markdown 版本）](https://github.com/wzb56/13_questions_of_shell)
 *   [如何查看 Linux 中所有正在运行的服务](https://linux.cn/article-9918-1.html)
 *   [小知识点--crontab](http://www.cnblogs.com/qiyeboy/p/9464262.html)
-*   []()
+*   [Linux工具快速教程 电子书](https://linuxtools-rst.readthedocs.io/zh_CN/latest/index.html)
 *   []()
 *   []()
 *   []()

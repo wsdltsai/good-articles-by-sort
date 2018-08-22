@@ -17,7 +17,7 @@
 *   [在 Python 中按需处理数据，第 3 部分 协程和 asyncio](https://www.ibm.com/developerworks/cn/analytics/library/ba-on-demand-data-python-3/index.html)
 *   [最全Python内置函数](http://www.cnblogs.com/wuyongcong/p/9418919.html)
 *   [PAGE：像Visual Studio一样设计Python GUI窗体](https://mp.weixin.qq.com/s?__biz=MzI4MzM2MDgyMQ==&mid=2247486580&idx=1&sn=251270d729f4e50103788b09a4ddf646&chksm=eb8aa72edcfd2e38ec4a4dea36576a104af997abf95ba93bf2d8e591e3dd10ca7a6512ae17df&mpshare=1&scene=23&srcid=0418h5LkldjIvFv8Q26MjASe#rd)
-*   []()
+*   [Django入门与实践教程 电子书](https://github.com/pythonzhichan/django-beginners-guide)
 *   []()
 *   []()
 *   []()
