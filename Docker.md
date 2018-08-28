@@ -10,7 +10,7 @@
 *   [如何Docker化任意一个应用](http://www.techug.com/post/how-to-dockerize-any-application.html)
 *   [Docker从入门到放弃](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651070642&idx=4&sn=4588718e68a100087051fc679cadb6bc&chksm=bd1fb2398a683b2fd31a613f6db49ed9a3298dc88790a69e0984cf65f24304544b85ede5f602&mpshare=1&scene=23&srcid=0816CLvbflRDEGoV3wQDwXvh#rd)
 *   [如何优雅使用Docker？请收下这15个小技巧。](https://studygolang.com/articles/14319)
-*   []()
+*   [Docker镜像瘦身的三个窍门](http://dockone.io/article/8174)
 *   []()
 *   []()
 *   []()
