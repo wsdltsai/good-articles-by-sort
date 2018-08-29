@@ -23,7 +23,7 @@
 *   [再有人问什么是 Python 元类，就把这篇文章扔给他](https://mp.weixin.qq.com/s/DRqffRRmHtswI4tVtjhbRQ)
 *   [Python数据可视化工具pyecharts使用细则](https://www.jiqizhixin.com/articles/2018-08-16-6)
 *   [快来学习怎么可视化监控你的爬虫](https://cuiqingcai.com/6217.html)
-*   []()
+*   [10分钟快速入门Python函数式编程](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/82117264)
 *   []()
 *   []()
 *   []()
