@@ -26,7 +26,7 @@
 *   [【免费赠书】迭代器概述](https://mp.weixin.qq.com/s?__biz=MzAwOTQ4MzY1Nw==&mid=2247485445&idx=1&sn=bf87184352a768050652e8d60f1de89f&chksm=9b5face3ac2825f563378498edc7371502e5ef1efa846c06339e04cef00c8e1da9662a34c52e&scene=0&ascene=14&devicetype=android-26&version=26060739&nettype=cmnet&abtest_cookie=AwABAAoACwAMAAYAPoseACWXHgAKmB4ANpgeAHeYHgChmB4AAAA%3D&lang=zh_CN&pass_ticket=tqg0vPML%2BTARLJOLY%2Ftw59g6C1%2Bf20Y782OQrJaIhR2lXQpvSa3mHgK6ggoIP0Ak&wx_header=1)
 *   [Python 的异步 IO：Asyncio 简介](https://mp.weixin.qq.com/s?__biz=MzAwOTQ4MzY1Nw==&mid=2247485965&idx=1&sn=948a683a1a864044845fdacf9286f198&chksm=9b5faeebac2827fdda5caa4e5b88617a4aed47196049dfa39de73c3caa93d1c5f45fea4a48df&mpshare=1&scene=23&srcid=08061yvgd2KNquE5lS2cU3i5#rd)
 *   [200行代码实现一个带界面的爬图小软件](https://mp.weixin.qq.com/s?__biz=MzAwOTQ4MzY1Nw==&mid=2247486475&idx=1&sn=8552bdfc992440a13867cd709b6ec296&chksm=9b5fa8edac2821fb321a96de31f962b65fc0607b854c29c2bfa85e84fb8cf6d586e4604db24b&mpshare=1&scene=23&srcid=0808HRRBMq5GyGSqy5QkInei#rd)
-*   []()
+*   [Python设计模式之单例模式](https://mp.weixin.qq.com/s?__biz=MzAwOTQ4MzY1Nw==&mid=2247485435&idx=1&sn=ef9f320bd55131e3a11e4c227d394a40&chksm=9b5fa31dac282a0ba72dd62c3a013612cb824bce2b1c89cc784a64b624bca9d83b62abcaa7c6&mpshare=1&scene=23&srcid=0803emce3i5P9Ql28a9u66HP#rd)
 *   []()
 *   []()
 *   []()
