@@ -7,7 +7,7 @@
 *   [小知识点--crontab](http://www.cnblogs.com/qiyeboy/p/9464262.html)
 *   [Linux工具快速教程 电子书](https://linuxtools-rst.readthedocs.io/zh_CN/latest/index.html)
 *   [月薪上万才会考的 24 道Linux Shell 脚本面试题](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649444706&idx=1&sn=e96603a22a104933834b01d5fad13882&chksm=f3a27011c4d5f9074c91bb3f8b76e9a620be2f01b37136b1c8a56cee9c99a53e0d6bc37bb80c&mpshare=1&scene=23&srcid=0803uR0yQxj38XZhmNf0BJwZ#rd)
-*   []()
+*   [Ubuntu 16.04安装/更新VMware tools&设置共享文件夹方法](https://blog.csdn.net/wkw1125/article/details/53946371)
 *   []()
 *   []()
 *   []()
