@@ -24,3 +24,19 @@
 *   [Qt4-MVC模式的一些基本概念](https://www.adamfei.com/qt4-mvc-1-some-basic-concepts-of-mvc-pattern/)
 *   [Qt MVC设计模式：子类化抽象模型的方法](https://blog.csdn.net/qq_19672579/article/details/47042395)
 *   [“Why Not”使用QML实现一个MVVM框架](http://www.qtcn.org/bbs/read-htm-tid-62886.html)
+*   [Terminal version of the game "2048" written in C++ 11](https://github.com/plibither8/2048.cpp?utm_source=tuicool&utm_medium=referral)
+*   []()
+*   []()
+*   []()
+*   []()
+*   []()
+*   []()
+*   []()
+
+
+
+
+
+
+
+

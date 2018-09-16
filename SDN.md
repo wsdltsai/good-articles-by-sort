@@ -9,6 +9,16 @@
 *   [SDN学习之OpenFlow协议分析](http://www.cnblogs.com/sgatbl/p/6822154.html)
 *   [深入思考SDN的核心本质：从SDN=OpenFlow回到软件定义网络](https://www.sdnlab.com/8078.html)
 *   [OpenDaylight（氢版本）数据通信代码解读](http://blog.sina.com.cn/s/blog_138c6e98e0102viuv.html)
+*   [Software Defined Networking](https://www.coursera.org/learn/sdn)
+*   [**SDN 与 Mininet 概述**](https://blog.csdn.net/Neo233/article/details/79763221)
+*   [Mininet 安装及可视化操作](https://blog.csdn.net/asneverbefore/article/details/78916645)
+*   [SDN/NFV助力，宽带接入网成网络重构关键突破口](http://www.d1net.com/data/vendor/484656.html)
+*   [SDN浅谈](https://www.tuicool.com/articles/Q3uQf2)
+*   [SDN云数据中心网络异常行为的智能处理实践](http://cloud.51cto.com/art/201711/558419.htm)
+*   [SDN学习之OpenFlow协议分析](http://www.cnblogs.com/sgatbl/p/6822154.html)
+*   [Openflow简介](https://www.tuicool.com/articles/FnqYVb)
+*   [SDN落地的实践与思考：带着问题找方案，别管定义啦](https://www.sdnlab.com/4433.html)
+*   [基于开源SDN控制器的下一代金融云网络的研究与实践](http://geek.csdn.net/news/detail/256569?utm_source=tuicool&utm_medium=referral)
 *   []()
 *   []()
 *   []()
@@ -16,8 +26,6 @@
 *   []()
 *   []()
 *   []()
-*   []()
-
 
 
 ## SDN搭建
@@ -29,15 +37,17 @@
 *   [Ubuntu16.04安装Mininet](https://blog.csdn.net/linyixiao88/article/details/65651390)
 *   [Emulator for rapid prototyping of Software Defined Networks http://mininet.org](https://github.com/mininet/mininet)
 *   [opendaylight 初探【1 实验环境布署】](https://www.cnblogs.com/veniceslove/p/6293848.html)
-*   []()
+*   [opendaylight 初探【2 mininet布署】](https://www.cnblogs.com/veniceslove/p/6294045.html)
 *   [Mininet+Opendaylight+Wireshark搭建SDN环境](http://blog.51cto.com/wanxiule/1912730)
 *   [【OpenDayLight(Lithium版本)介紹與安裝 — on Ubuntu 16.04】](https://ting-kuan.blog/2017/11/08/%E3%80%90opendaylightlithium%E7%89%88%E6%9C%AC%E4%BB%8B%E7%B4%B9%E8%88%87%E5%AE%89%E8%A3%9D-on-ubuntu-16-04%E3%80%91/?tdsourcetag=s_pctim_aiomsg)
 *   [Mininet介绍及安装](https://www.cnblogs.com/xiaoxt/p/5499078.html)
+*   [Open vSwitch2.3.0版本安装部署及基本操作](https://www.sdnlab.com/3166.html)
 *   []()
 *   []()
 *   []()
-
-
+*   []()
+*   []()
+*   []()
 
 
 

@@ -27,8 +27,19 @@
 *   [Python 的异步 IO：Asyncio 简介](https://mp.weixin.qq.com/s?__biz=MzAwOTQ4MzY1Nw==&mid=2247485965&idx=1&sn=948a683a1a864044845fdacf9286f198&chksm=9b5faeebac2827fdda5caa4e5b88617a4aed47196049dfa39de73c3caa93d1c5f45fea4a48df&mpshare=1&scene=23&srcid=08061yvgd2KNquE5lS2cU3i5#rd)
 *   [200行代码实现一个带界面的爬图小软件](https://mp.weixin.qq.com/s?__biz=MzAwOTQ4MzY1Nw==&mid=2247486475&idx=1&sn=8552bdfc992440a13867cd709b6ec296&chksm=9b5fa8edac2821fb321a96de31f962b65fc0607b854c29c2bfa85e84fb8cf6d586e4604db24b&mpshare=1&scene=23&srcid=0808HRRBMq5GyGSqy5QkInei#rd)
 *   [Python设计模式之单例模式](https://mp.weixin.qq.com/s?__biz=MzAwOTQ4MzY1Nw==&mid=2247485435&idx=1&sn=ef9f320bd55131e3a11e4c227d394a40&chksm=9b5fa31dac282a0ba72dd62c3a013612cb824bce2b1c89cc784a64b624bca9d83b62abcaa7c6&mpshare=1&scene=23&srcid=0803emce3i5P9Ql28a9u66HP#rd)
+*   [安装Python模块gmpy2中的问题解决](http://blog.51cto.com/12332766/2116615)
+*   [Super-simple to create custom layout GUI's. 50 Demo programs & Cookbook for rapid start. Examples for Machine Learning(GUI, OpenCV Integration, Chatterbot), Floating Desktop Widgets, Matplotlib + Pyplot integration, add GUI to command line scripts, PDF & Image Viewer, and more](https://github.com/MikeTheWatchGuy/PySimpleGUI)
 *   []()
 *   []()
 *   []()
 *   []()
+*   []()
+*   []()
+*   []()
+*   []()
+
+
+
+
+
 
