@@ -29,7 +29,7 @@
 *   [Python设计模式之单例模式](https://mp.weixin.qq.com/s?__biz=MzAwOTQ4MzY1Nw==&mid=2247485435&idx=1&sn=ef9f320bd55131e3a11e4c227d394a40&chksm=9b5fa31dac282a0ba72dd62c3a013612cb824bce2b1c89cc784a64b624bca9d83b62abcaa7c6&mpshare=1&scene=23&srcid=0803emce3i5P9Ql28a9u66HP#rd)
 *   [安装Python模块gmpy2中的问题解决](http://blog.51cto.com/12332766/2116615)
 *   [Super-simple to create custom layout GUI's. 50 Demo programs & Cookbook for rapid start. Examples for Machine Learning(GUI, OpenCV Integration, Chatterbot), Floating Desktop Widgets, Matplotlib + Pyplot integration, add GUI to command line scripts, PDF & Image Viewer, and more](https://github.com/MikeTheWatchGuy/PySimpleGUI)
-*   []()
+*   [使用django搭建的小说网站](https://github.com/liua0/dushu)
 *   []()
 *   []()
 *   []()
