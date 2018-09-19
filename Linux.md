@@ -13,7 +13,7 @@
 *   [Linux 文件系统 EXT4 的前世今生](https://www.oschina.net/translate/introduction-ext4-filesystem)
 *   [深入理解 ext4 等 Linux 文件系统](https://mp.weixin.qq.com/s?__biz=MzAxODI5ODMwOA==&mid=2666542848&idx=1&sn=329ba5ea024a6b27600ffe280b52cd02&chksm=80dcf3abb7ab7abdf123388514656dede3dd75725160947f9e06e6ae277971d473f3622b5914&mpshare=1&scene=23&srcid=0914ChLw8NlLioWLgXip38FY#rd)
 *   [简单聊聊 GZIP 的压缩原理与日常应用](https://github.com/rccoder/blog/issues/32?utm_source=tuicool&utm_medium=referral)
-*   []()
+*   [Git 学习笔记](http://www.ppbibo.info/?p=354)
 *   []()
 *   []()
 *   []()

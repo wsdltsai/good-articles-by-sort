@@ -30,7 +30,7 @@
 *   [安装Python模块gmpy2中的问题解决](http://blog.51cto.com/12332766/2116615)
 *   [Super-simple to create custom layout GUI's. 50 Demo programs & Cookbook for rapid start. Examples for Machine Learning(GUI, OpenCV Integration, Chatterbot), Floating Desktop Widgets, Matplotlib + Pyplot integration, add GUI to command line scripts, PDF & Image Viewer, and more](https://github.com/MikeTheWatchGuy/PySimpleGUI)
 *   [使用django搭建的小说网站](https://github.com/liua0/dushu)
-*   []()
+*   [做黑客需要会的123个Python工具！](http://developer.51cto.com/art/201804/571791.htm?utm_source=tuicool&utm_medium=referral)
 *   []()
 *   []()
 *   []()
