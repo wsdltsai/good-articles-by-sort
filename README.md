@@ -11,7 +11,7 @@
 *   [Nginx](Nginx.md)
 *   [NodeJs](NodeJs.md)
 *   [Python](Python.md)
-
+*   [LaTeX](LaTeX.md)
 *   [Docker](Docker.md)
 
 

@@ -2,7 +2,7 @@
 
 
 *   [并行化：你的高并发大杀器](https://mp.weixin.qq.com/s/LN0ms-1ABLSEN629zGs8Ng?utm_source=tuicool&utm_medium=referral)
-*   []()
+*   [Java国王：我来告诉你什么才是真正的封装！](https://mp.weixin.qq.com/s?__biz=MzAxOTc0NzExNg==&mid=2665514988&idx=1&sn=fc4a5801f1605d187599d01df6e13c6f&chksm=80d67fafb7a1f6b966d111c32d4d9f59260f0cbe57c0611674f079f8912352504701abdbe354&mpshare=1&scene=23&srcid=0920N9zgcpxT1S4H4N5NRHOR#rd)
 *   []()
 *   []()
 *   []()
