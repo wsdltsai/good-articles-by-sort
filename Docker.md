@@ -17,7 +17,7 @@
 *   [Docker 深入篇之 Build 原理](https://zhuanlan.zhihu.com/p/43767105?utm_source=tuicool&utm_medium=referral)
 *   [Docker 生态概览](https://mp.weixin.qq.com/s?__biz=MzI0MDQ4MTM5NQ==&mid=2247486990&idx=2&sn=4b65be91263a2f8abb3c9807dfc28004&chksm=e91b6b12de6ce204d353eeedb787e803f22c9dea48a172de259d4785a9550f7360638f92677b&mpshare=1&scene=23&srcid=0920Dhlu4oQAaI8rySvy3T50#rd)
 *   [Docker容器技术之Docker file](https://mp.weixin.qq.com/s?__biz=MzI0MDQ4MTM5NQ==&mid=2247486864&idx=1&sn=4e4a252aada8dfdb0de4e5e92de02058&chksm=e91b688cde6ce19af4f61b42454759c701bf2e250a46563948d6962be3a1883d63bd9c57beaf&mpshare=1&scene=23&srcid=0920VeoITSyfYK0Y8DSvqVQS#rd)
-*   []()
+*   [Docker CheatSheet | Docker 配置与实践清单](https://segmentfault.com/a/1190000016447161?utm_source=tuicool&utm_medium=referral)
 *   []()
 *   []()
 *   []()
