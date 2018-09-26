@@ -20,7 +20,7 @@
 *   [一言不合就改成 777 权限？会出人命的！](https://mp.weixin.qq.com/s?__biz=MzAwOTQ4MzY1Nw==&mid=2247486747&idx=1&sn=2d260a3db1b63432f8ddea970abfd181&chksm=9b5fa9fdac2820eb61c13b89c869e6131cfdeae4c403e8db77fc6f5e659129c1eea2de85c012&mpshare=1&scene=23&srcid=0920I5XqiG1Y60KzcncIeB0y#rd)
 *   [Ubuntu中最简单好用截图工具shutter安装](https://blog.csdn.net/wd2014610/article/details/72860009)
 *   [十分钟完成Bash 脚本进阶！列举Bash经典用法及其案例](https://mp.weixin.qq.com/s?__biz=MzI0MDQ4MTM5NQ==&mid=2247486900&idx=1&sn=49a671a6509a70a8e71fff7ae0d22f2c&chksm=e91b68a8de6ce1be5165b5e81d4e461c7d9267bd79d28646fe44b2c453f773fd49d6f663f2f1&mpshare=1&scene=23&srcid=0920iaG0a3z7xR7LhRFQ56qD#rd)
-*   []()
+*   [Linux 中命令链接操作符，让你的代码更简洁！](https://mp.weixin.qq.com/s?__biz=MzA3OTgyMDcwNg==&mid=2650635721&idx=1&sn=c1b1955b76a246ed90b420b8fadd46d1&chksm=87a47f04b0d3f6124c301fbba58cc52aca7f96c638f77ba169af878f6f0cde66c80ab887f4f5&mpshare=1&scene=23&srcid=09260ubcNdJQ2EziLSnqEvyr#rd)
 *   []()
 *   []()
 *   []()
