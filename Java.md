@@ -8,7 +8,7 @@
 *   [Java对象的序列化与反序列化](https://mp.weixin.qq.com/s?__biz=MzIxMjE5MTE1Nw==&mid=2653193466&idx=1&sn=cb3c0f1728ce9ff59cfca5cde592c4df&chksm=8c99f620bbee7f36e1b95bbd2301450216af063e223e7ca8a89a79355ba1d47470d086ff00be&mpshare=1&scene=23&srcid=0927oDL55e7DSCA0mUBax6Br#rd)
 *   [java-unicode-encoding](https://stackoverflow.com/questions/2533097/java-unicode-encoding)
 *   [The char Type in Java is Broken](https://codeahoy.com/2016/05/08/the-char-type-in-java-is-broken/)
-*   []()
+*   [即时通讯安全篇（一）：正确地理解和使用Android端加密算法](http://www.52im.net/thread-216-1-1.html)
 *   []()
 *   []()
 *   []()

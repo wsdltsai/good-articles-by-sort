@@ -22,7 +22,7 @@
 *   [十分钟完成Bash 脚本进阶！列举Bash经典用法及其案例](https://mp.weixin.qq.com/s?__biz=MzI0MDQ4MTM5NQ==&mid=2247486900&idx=1&sn=49a671a6509a70a8e71fff7ae0d22f2c&chksm=e91b68a8de6ce1be5165b5e81d4e461c7d9267bd79d28646fe44b2c453f773fd49d6f663f2f1&mpshare=1&scene=23&srcid=0920iaG0a3z7xR7LhRFQ56qD#rd)
 *   [Linux 中命令链接操作符，让你的代码更简洁！](https://mp.weixin.qq.com/s?__biz=MzA3OTgyMDcwNg==&mid=2650635721&idx=1&sn=c1b1955b76a246ed90b420b8fadd46d1&chksm=87a47f04b0d3f6124c301fbba58cc52aca7f96c638f77ba169af878f6f0cde66c80ab887f4f5&mpshare=1&scene=23&srcid=09260ubcNdJQ2EziLSnqEvyr#rd)
 *   [关于 Linux 编译优化几个必须掌握的姿势](https://mp.weixin.qq.com/s/CIYzI6SAWcHWTD6z3PvOuQ?utm_source=tuicool&utm_medium=referral)
-*   []()
+*   [如何在Linux上使用tcpdump命令捕获和分析数据包 - 推酷](http://os.51cto.com/art/201809/584122.htm?utm_source=tuicool&utm_medium=referral)
 *   []()
 *   []()
 *   []()

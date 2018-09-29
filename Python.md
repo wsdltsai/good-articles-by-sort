@@ -36,7 +36,7 @@
 *   [[Python] 多用户，多房间全双工聊天室](http://www.jianshu.com/p/0bd2efdadaf4?utm_source=tuicool&utm_medium=referral)
 *   [使用Python生成动态图表，一个很Cool的教程 - 推酷](https://blog.csdn.net/dQCFKyQDXYm3F8rB0/article/details/82836621?utm_source=tuicool&utm_medium=referral)
 *   [5分钟，关于Python 解包，你需要知道的一切](https://mp.weixin.qq.com/s?__biz=MjM5MzgyODQxMQ==&mid=2650368719&idx=1&sn=728e698d91b2876af1252781a1800242&chksm=be9cd19b89eb588d0ece4322c0977771cbd3e1fa677dc4f19a7388b53dd99545e8143a176818&mpshare=1&scene=23&srcid=0926yPb9w2O0s4hPC56yJ7AS#rd)
-*   []()
+*   [浅谈Python Django框架](https://mp.weixin.qq.com/s?__biz=MzA3OTgyMDcwNg==&mid=2650635730&idx=2&sn=ffbb4467ecffff3b23bf23734131e714&chksm=87a47f1fb0d3f60964b4e9f0e53ef21909324bb8355a83a0998d193e46076df93d436cf3f7b1&mpshare=1&scene=23&srcid=0927rUAfKAATLgWPiY131yx0#rd)
 *   []()
 *   []()
 *   []()
