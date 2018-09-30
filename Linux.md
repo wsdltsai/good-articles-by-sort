@@ -23,7 +23,7 @@
 *   [Linux 中命令链接操作符，让你的代码更简洁！](https://mp.weixin.qq.com/s?__biz=MzA3OTgyMDcwNg==&mid=2650635721&idx=1&sn=c1b1955b76a246ed90b420b8fadd46d1&chksm=87a47f04b0d3f6124c301fbba58cc52aca7f96c638f77ba169af878f6f0cde66c80ab887f4f5&mpshare=1&scene=23&srcid=09260ubcNdJQ2EziLSnqEvyr#rd)
 *   [关于 Linux 编译优化几个必须掌握的姿势](https://mp.weixin.qq.com/s/CIYzI6SAWcHWTD6z3PvOuQ?utm_source=tuicool&utm_medium=referral)
 *   [如何在Linux上使用tcpdump命令捕获和分析数据包 - 推酷](http://os.51cto.com/art/201809/584122.htm?utm_source=tuicool&utm_medium=referral)
-*   []()
+*   [3分钟看懂linux磁盘划分](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649444877&idx=1&sn=62bb9e5612da34dfacb943f0ce6af9bb&chksm=f3a2737ec4d5fa6805a5d2d748c0b906a4c2707dc72361fb9cc4677e88cad7f246d6fbb61f8b&scene=0&ascene=14&devicetype=android-26&version=26060739&nettype=cmnet&abtest_cookie=AwABAAoACwAMAAYAPoseACWXHgAKmB4ANpgeAHeYHgChmB4AAAA%3D&lang=zh_CN&pass_ticket=tqg0vPML%2BTARLJOLY%2Ftw59g6C1%2Bf20Y782OQrJaIhR2lXQpvSa3mHgK6ggoIP0Ak&wx_header=1)
 *   []()
 *   []()
 *   []()

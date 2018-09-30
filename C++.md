@@ -27,7 +27,7 @@
 *   [Terminal version of the game "2048" written in C++ 11](https://github.com/plibither8/2048.cpp?utm_source=tuicool&utm_medium=referral)
 *   [你无法想象的C语法](http://tchen.me/posts/2013-07-18-c-grammar-you-cannot-imagine.html?utm_source=tuicool&utm_medium=referral)
 *   [如何编写属于自己的C语言编译器](http://www.4hou.com/technology/9124.html)
-*   []()
+*   [C++中的Digraphs、Trigraphs和Tokens](https://lrita.github.io/2018/09/29/digraphs-trigraphs-and-tokens-in-cpp/)
 *   []()
 *   []()
 *   []()
