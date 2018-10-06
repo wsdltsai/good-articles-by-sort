@@ -13,7 +13,7 @@
 *   [深入理解Java中的i++、++i语句](https://blog.csdn.net/xialei199023/article/details/76383013)
 *   [What is x after “x = x++”?](https://stackoverflow.com/questions/7911776/what-is-x-after-x-x)
 *   [关于带副作用的表达式的一点笔记](http://rednaxelafx.iteye.com/blog/132187)
-*   []()
+*   [Java 干货之深入理解String](http://www.cnblogs.com/dengchengchao/p/9713859.html?utm_source=tuicool&utm_medium=referral)
 *   []()
 *   []()
 *   []()
