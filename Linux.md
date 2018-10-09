@@ -25,7 +25,7 @@
 *   [如何在Linux上使用tcpdump命令捕获和分析数据包 - 推酷](http://os.51cto.com/art/201809/584122.htm?utm_source=tuicool&utm_medium=referral)
 *   [3分钟看懂linux磁盘划分](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649444877&idx=1&sn=62bb9e5612da34dfacb943f0ce6af9bb&chksm=f3a2737ec4d5fa6805a5d2d748c0b906a4c2707dc72361fb9cc4677e88cad7f246d6fbb61f8b&scene=0&ascene=14&devicetype=android-26&version=26060739&nettype=cmnet&abtest_cookie=AwABAAoACwAMAAYAPoseACWXHgAKmB4ANpgeAHeYHgChmB4AAAA%3D&lang=zh_CN&pass_ticket=tqg0vPML%2BTARLJOLY%2Ftw59g6C1%2Bf20Y782OQrJaIhR2lXQpvSa3mHgK6ggoIP0Ak&wx_header=1)
 *   [17个案例带你3分钟搞定Linux正则表达式](https://mp.weixin.qq.com/s?__biz=MzI4MDEwNzAzNg==&mid=2649445080&idx=1&sn=16355547d16aadfe6e0856e6918e8056&chksm=f3a273abc4d5fabde136d578ca41990f4c99d83f9b7d3788f01178fd384a4fc5a729b2097c45&mpshare=1&scene=23&srcid=09287O5TcbuBAYdDKng1UP33#rd)
-*   []()
+*   [The Smallest Bash Script in the Universe](https://blog.twentytwotabs.com/the-smallest-bash-program-in-the-universe/)
 *   []()
 *   []()
 *   []()
