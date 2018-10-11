@@ -38,7 +38,7 @@
 *   [5分钟，关于Python 解包，你需要知道的一切](https://mp.weixin.qq.com/s?__biz=MjM5MzgyODQxMQ==&mid=2650368719&idx=1&sn=728e698d91b2876af1252781a1800242&chksm=be9cd19b89eb588d0ece4322c0977771cbd3e1fa677dc4f19a7388b53dd99545e8143a176818&mpshare=1&scene=23&srcid=0926yPb9w2O0s4hPC56yJ7AS#rd)
 *   [浅谈Python Django框架](https://mp.weixin.qq.com/s?__biz=MzA3OTgyMDcwNg==&mid=2650635730&idx=2&sn=ffbb4467ecffff3b23bf23734131e714&chksm=87a47f1fb0d3f60964b4e9f0e53ef21909324bb8355a83a0998d193e46076df93d436cf3f7b1&mpshare=1&scene=23&srcid=0927rUAfKAATLgWPiY131yx0#rd)
 *   [16行Python实现3D破坏球效果](https://mp.weixin.qq.com/s?__biz=MzA3OTgyMDcwNg==&mid=2650635965&idx=2&sn=98ce89a7ddb9601073276db2df86a929&chksm=87a47c70b0d3f5667856b27c480c2fccb0542857bfd28a463e188b3de36b93feb13f73a7c2aa&mpshare=1&scene=23&srcid=1005kMLDzC3rhGpPdEssonSJ#rd)
-*   []()
+*   [[译] 出于性能考虑，请别使用 pip 安装 TensorFlow](https://mp.weixin.qq.com/s/u3_RDIPYVCZrLXmwLz7eRA?utm_source=tuicool&utm_medium=referral)
 *   []()
 *   []()
 *   []()
