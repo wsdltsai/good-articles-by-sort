@@ -21,7 +21,7 @@
 *   [Java怎么实现输入一个string表达式然后输出计算的结果](https://zhidao.baidu.com/question/144563176.html)
 *   [Java计算表达式的值](https://www.jianshu.com/p/682e8e8d3dfb)
 *   [压栈思想计算Java运算表达式](http://elim.iteye.com/blog/1981197)
-*   []()
+*   [Java 10 var关键字详解和示例教程](http://www.infoq.com/cn/articles/java-10-var-type?utm_source=tuicool&utm_medium=referral)
 *   []()
 *   []()
 *   []()
