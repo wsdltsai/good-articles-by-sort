@@ -41,7 +41,7 @@
 *   [[译] 出于性能考虑，请别使用 pip 安装 TensorFlow](https://mp.weixin.qq.com/s/u3_RDIPYVCZrLXmwLz7eRA?utm_source=tuicool&utm_medium=referral)
 *   [python学习第三十三天：守护进程，进程互斥锁，通信，生产者消费者模型](http://www.cnblogs.com/luck-L/p/9299953.html?utm_source=tuicool&utm_medium=referral)
 *   [Python多进程编程及多进程间的通信，数据传输](http://www.cnblogs.com/BanL/p/9637033.html?utm_source=tuicool&utm_medium=referral)
-*   []()
+*   [从Ctrl-C看Python多线程的信号处理](https://cyrusin.github.io/2016/05/25/python20160525/?utm_source=tuicool&utm_medium=referral)
 *   []()
 *   []()
 *   []()
