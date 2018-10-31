@@ -39,7 +39,7 @@
 *   [【底层原理】Linux写时拷贝技术(copy-on-write)](https://mp.weixin.qq.com/s?__biz=MzIwNTc4NTEwOQ==&mid=2247486044&idx=1&sn=0fb6684d56d647a7af8c6903530987ba&chksm=972adb26a05d52303388512d4d6ef25063a2dcec4309e7175148b4da77c3b7db62fff6d7e651&mpshare=1&scene=23&srcid=1023geH04ieRruoV1cdJTXXD#rd)
 *   [How to download an archive and extract it without saving the archive to disk?](https://unix.stackexchange.com/questions/85194/how-to-download-an-archive-and-extract-it-without-saving-the-archive-to-disk)
 *   [init,service和systemctl的区别](https://blog.csdn.net/lineuman/article/details/52578399)
-*   []()
+*   [开机自动执行脚本 与 update-rc.d](https://blog.csdn.net/jiaoyongqing134/article/details/54914808)
 *   []()
 *   []()
 *   []()
