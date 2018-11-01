@@ -40,7 +40,7 @@
 *   [How to download an archive and extract it without saving the archive to disk?](https://unix.stackexchange.com/questions/85194/how-to-download-an-archive-and-extract-it-without-saving-the-archive-to-disk)
 *   [init,service和systemctl的区别](https://blog.csdn.net/lineuman/article/details/52578399)
 *   [开机自动执行脚本 与 update-rc.d](https://blog.csdn.net/jiaoyongqing134/article/details/54914808)
-*   []()
+*   [COW奶牛！Copy On Write机制了解一下](http://www.cnblogs.com/Java3y/p/9884583.html?utm_source=tuicool&utm_medium=referral)
 *   []()
 *   []()
 *   []()
