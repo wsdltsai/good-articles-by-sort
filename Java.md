@@ -54,7 +54,7 @@
 *   [Java - byte[] 和 String互相转换 - Jiakeqiang - 博客园](https://www.cnblogs.com/keeplearnning/p/7003415.html)
 *   [wait - How do I make a delay in Java? - Stack Overflow](https://stackoverflow.com/questions/24104313/how-do-i-make-a-delay-in-java)
 *   [arrays - How to convert Java String into byte[]? - Stack Overflow](https://stackoverflow.com/questions/18571223/how-to-convert-java-string-into-byte)
-*   []()
+*   [Java Mouse Event Right Click](https://stackoverflow.com/questions/4525733/java-mouse-event-right-click)
 *   []()
 *   []()
 *   []()

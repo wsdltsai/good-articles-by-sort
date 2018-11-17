@@ -50,7 +50,7 @@
 *   [赵晨雨：从文件系统的数据结构看Linux内核设计](https://mp.weixin.qq.com/s/iItbscZ7V6_Kmmtq_KAaHQ?utm_source=tuicool&utm_medium=referral)
 *   [Linux——浅析信号处理 - 推酷](http://www.cnblogs.com/tp-16b/p/9011104.html?utm_source=tuicool&utm_medium=referral)
 *   [在 Linux 中怎么运行 MS-DOS 游戏和程序](https://linux.cn/article-10226-1.html?utm_source=tuicool&utm_medium=referral)
-*   []()
+*   [How to escape single quotes within single quoted strings?](https://stackoverflow.com/questions/1250079/how-to-escape-single-quotes-within-single-quoted-strings)
 *   []()
 *   []()
 *   []()
