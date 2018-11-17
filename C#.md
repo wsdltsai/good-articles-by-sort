@@ -9,7 +9,7 @@
 *   [1.什么是Code First(EF Code First 系列)](https://www.cnblogs.com/caofangsheng/p/5020541.html)
 *   [8天掌握EF的Code First开发之Entity Framework介绍](http://www.cnblogs.com/farb/p/IntroductionToEF.html)
 *   [.NET Core 获取操作系统各种信息](http://www.cnblogs.com/stulzq/p/9070164.html?utm_source=tuicool&utm_medium=referral)
-*   []()
+*   [微软的船新框架ASP.NET Core - 10分钟讲完MVC基础_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/av29975319)
 *   []()
 *   []()
 *   []()

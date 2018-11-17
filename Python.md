@@ -53,7 +53,7 @@
 *   [树莓派折腾selenium + chrome记录](https://my.oschina.net/u/727875/blog/1608342)
 *   [Plot time with matplotlib](https://pythonspot.com/plot-time-with-matplotlib/)
 *   [一日一技：使用异或寻找孤独的数](https://mp.weixin.qq.com/s?__biz=MzI2MzEwNTY3OQ==&mid=2648976546&idx=1&sn=e11a24ca06081f9e9b1cb54a951f77e5&chksm=f2507142c527f8548a15d021a2ab0009140a46d1367da45f0635c1b0f817b62cdcfc641c7cb9&mpshare=1&scene=23&srcid=1104WhzX7oLX3VIfLLVoxgk6#rd)
-*   []()
+*   [使用 Redis 和 Python 构建一个共享单车的应用程序](https://linux.cn/article-10231-1.html?utm_source=tuicool&utm_medium=referral)
 *   []()
 *   []()
 *   []()
