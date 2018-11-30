@@ -27,7 +27,7 @@
 *   [SDN和OpenFlow介绍](http://www.just4coding.com/blog/2016/12/31/introducing-openflow/?utm_source=tuicool&utm_medium=referral)
 *   [OpenFlow消息](http://www.cnblogs.com/zhanglei93/p/5003326.html?utm_source=tuicool&utm_medium=referral)
 *   [Ryu:OpenFlow协议源码分析](http://www.muzixing.com/pages/2015/07/24/ryuopenflowxie-yi-yuan-ma-fen-xi.html?utm_source=tuicool&utm_medium=referral)
-*   []()
+*   [在 SDN 中，OpenFlow 和 Open vSwitch 的区别是什么？ - 知乎](https://www.zhihu.com/question/24178046)
 *   []()
 *   []()
 *   []()
