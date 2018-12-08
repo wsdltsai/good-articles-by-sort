@@ -56,7 +56,7 @@
 *   [使用 Redis 和 Python 构建一个共享单车的应用程序](https://linux.cn/article-10231-1.html?utm_source=tuicool&utm_medium=referral)
 *   [CPython 源码分析 - 0](https://zhuanlan.zhihu.com/p/49451546?utm_source=tuicool&utm_medium=referral)
 *   [使用Python创建WebUI](https://zhuanlan.zhihu.com/p/50826998?utm_source=tuicool&utm_medium=referral)
-*   []()
+*   [CSIC2010学习Word2vec表示及可视化 - 一个致力“使己成为人”的专栏 - CSDN博客](https://blog.csdn.net/wjbwjbwjbwjb/article/details/78145716)
 *   []()
 *   []()
 *   []()
